@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="The Headhunter's Guild. Founder and head honcho. headhuntersguild.com">
+<title>The Headhunter's Guild. Founder and head honcho. headhuntersguild.com</title>
+<defs></defs>
+
+<clipPath id="c"><rect width="900" height="140" rx="20"/></clipPath>
+<g clip-path="url(#c)"><rect width="900" height="140" fill="#0C2A30"/><circle cx="850" cy="70" r="46" fill="none" stroke="#24525A" opacity="0.8"/><circle cx="850" cy="70" r="86" fill="none" stroke="#24525A" opacity="0.6000000000000001"/><circle cx="850" cy="70" r="130" fill="none" stroke="#24525A" opacity="0.4"/></g>
+<rect x=".5" y=".5" width="899" height="139" rx="19.5" fill="none" stroke="#24525A"/>
+<g transform="translate(40 40) scale(1.25)"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z" fill="none" stroke="#D8B36A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+
+<text x="92" y="66" font-family="'Iowan Old Style','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" font-size="31" fill="#E4EEE9">The Headhunter's Guild</text>
+<text x="93" y="92" font-family="'Avenir Next','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#86A9A6">Founder and head honcho.</text>
+<text x="93" y="117" font-family="'Avenir Next','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="500" fill="#D8B36A" text-decoration="underline">headhuntersguild.com</text>
+</svg>

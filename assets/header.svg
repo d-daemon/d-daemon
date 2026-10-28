@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="d-daemon. Quiet systems that keep running. Data, analytics, and the tooling around them.">
+<title>d-daemon. Quiet systems that keep running. Data, analytics, and the tooling around them.</title>
+<defs></defs>
+
+<style>
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 4.2s cubic-bezier(.2,.6,.3,1) infinite}
+    @keyframes ping{0%{transform:scale(.12);opacity:.95}65%{opacity:0}100%{transform:scale(1);opacity:0}}
+    @media (prefers-reduced-motion:reduce){.ping{animation:none;opacity:.3;transform:scale(.6)}}
+  </style>
+<clipPath id="c"><rect width="900" height="300" rx="22"/></clipPath>
+<g clip-path="url(#c)">
+  <rect width="900" height="300" fill="#0C2A30"/>
+  <circle cx="738" cy="150" r="104" fill="none" stroke="#24525A" stroke-width="1" opacity="0.75"/>
+  <circle cx="738" cy="150" r="168" fill="none" stroke="#24525A" stroke-width="1" opacity="0.61"/>
+  <circle cx="738" cy="150" r="244" fill="none" stroke="#24525A" stroke-width="1" opacity="0.47"/>
+  <circle cx="738" cy="150" r="330" fill="none" stroke="#24525A" stroke-width="1" opacity="0.32999999999999996"/>
+  <circle cx="874.7315807193057" cy="52.38609302973275" r="3.5" fill="#86A9A6"/>
+  <circle cx="542.5209578065482" cy="296.0272031613654" r="2.5" fill="#86A9A6" opacity=".7"/>
+  <!-- the monogram: a "d" made of a ring, a stem and a running process -->
+  <circle cx="738" cy="150" r="64" fill="none" stroke="#D8B36A" stroke-width="2.5"/>
+  <line x1="802" y1="40" x2="802" y2="214" stroke="#D8B36A" stroke-width="2.5" stroke-linecap="round"/>
+  <circle class="ping" cx="738" cy="150" r="58" fill="none" stroke="#D8B36A" stroke-width="1.5"/>
+  <circle cx="738" cy="150" r="6" fill="#D8B36A"/>
+  <text x="56" y="160" font-family="'Iowan Old Style','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" font-size="86" fill="#E4EEE9" letter-spacing="-1.5">d-daemon</text>
+  <text x="58" y="206" font-family="'Iowan Old Style','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" font-size="23" font-style="italic" fill="#E4EEE9">See you on the flip side</text>
+</g>
+<rect x=".5" y=".5" width="899" height="299" rx="21.5" fill="none" stroke="#24525A"/>
+</svg>

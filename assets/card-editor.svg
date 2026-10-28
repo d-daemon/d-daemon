@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="176" viewBox="0 0 290 176" role="img" aria-label="Snow the Samoyed. My dog.">
+<title>Snow the Samoyed. My dog.</title>
+<defs></defs>
+
+<rect x=".5" y=".5" width="289" height="175" rx="16" fill="#0C2A30" stroke="#24525A"/>
+<g transform="translate(24 24) scale(1.05)"><path d="M8 7l-5 5 5 5M16 7l5 5-5 5M14 4l-4 16" fill="none" stroke="#D8B36A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="24" y="92" font-family="'Iowan Old Style','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" font-size="22" fill="#E4EEE9">Snow the Samoyed</text>
+<text x="24" y="116" font-family="'Avenir Next','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#86A9A6">My dog.</text>
+<text x="24" y="146" font-family="'Avenir Next','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="500" fill="#D8B36A" text-decoration="underline">instagram.com/sn0wthesammy</text>
+</svg>
