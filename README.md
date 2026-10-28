@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8b5cf6&center=true&vCenter=true&width=620&lines=d-daemon;Quiet+systems+that+keep+running.;Data,+analytics,+ and+the+tooling+around+them." alt="d-daemon banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=d-daemon;Quiet+systems+that+keep+running.;Data%2C+analytics%2C+and+the+tooling+around+them." alt="d-daemon banner" />
 </div>
 
 <p align="center">
